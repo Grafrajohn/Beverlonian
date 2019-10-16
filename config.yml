@@ -18,7 +18,7 @@ category_dir: /
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use http://localhost:4000/path/to/blog
 #baseurl: /path/to/blog 
-baseurl: https://grafrajohn.github.io/beverlonian/
+baseurl: https://grafrajohn.github.io/beverlonian
 
 # collections
 collections:
@@ -27,7 +27,7 @@ collections:
   prints:
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: https://grafrajohn.github.io/beverlonian/
+url: https://grafrajohn.github.io/beverlonian
 
 #### Under the Hood Stuff #####
 
